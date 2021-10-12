@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+UZH SEB Server Dokumentation
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
